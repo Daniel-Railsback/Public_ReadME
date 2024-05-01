@@ -22,7 +22,7 @@
 
 - **🛡️ Increased Reliability:** Secures business continuity.
 - **🚫 Risk Mitigation:** Protects against data loss and service disruptions.
-- **⚡Opportunity to meet 99.99% SLA
+- ⚡Opportunity to meet 99.99% SLA
 
 
 ### 4. **Management of AKS Logs**
