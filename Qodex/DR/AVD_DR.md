@@ -1,5 +1,3 @@
-Certainly! Here’s the revised version with emojis limited to the section titles:
-
 ---
 
 ## 🌐🛡️ Azure Virtual Desktop Disaster Recovery Plan
