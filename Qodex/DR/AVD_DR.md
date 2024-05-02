@@ -32,7 +32,7 @@ This Disaster Recovery (DR) plan focuses on maintaining seamless service during 
 
 #### Load Balancing and User Distribution
 - Action: Evenly distribute users to optimize resource use and reduce latency.
-- Theory: Utilize Azure Traffic Manager or Azure Front Door for efficient traffic management. [Documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience) (Question here is around user profile. We might be able to mirror storage accounts.)
+- Theory: Utilize Azure Traffic Manager or Azure Front Door for efficient traffic management. [Documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/service-architecture-resilience) (Question here is around user profile. We might be able to mirror storage accounts.) [Terraform Changes for user profile](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/storage_account#secondary_location)
 
 ### 🔄 Failover Procedure
 
