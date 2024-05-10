@@ -46,3 +46,11 @@
 
 - **🌟 Improved User Experience:** Elevates user engagement with AI support.
 - **🤖 Operational Efficiency:** Less time used on user training.
+
+### Notes
+
+Add the following with more detail: 
+
+Rework Cert for lets encrypt to prevent rotation of certs every year
+Rework SQL connection string deployment on AKS to use managed Identity instead
+Rework ADO agents.  Create pods spin up spin down to save money
