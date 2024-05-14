@@ -83,4 +83,6 @@ This SOW aims to reduce costs, optimize infrastructure, and improve service qual
   - 🌟 Long-term value from enhanced user experience.
 
 ### 🏁 Conclusion
-Here is the initial list of projects and goals that will set us on the right path. Our aim is to accomplish most of these goals over the next 12 months. New SOWs will be created for every two projects that are completed from this list. This approach will ensure continuous progress and sustained improvements in our Azure-based environment. All work will be tracked in Jira to ensure transparency and accountability. For applicable projects, a detailed topology will be created to provide a clear and structured implementation plan. This will help in better visualization, planning, and execution of each project.****
+Here is the initial list of projects and goals that will set us on the right path. Our aim is to accomplish most of these goals over the next 12 months. New SOWs will be created for every two projects that are completed from this list. This approach will ensure continuous progress and sustained improvements in our Azure-based environment. 
+
+All work will be tracked in Jira to ensure transparency and accountability. For applicable projects, a detailed topology will be created to provide a clear and structured implementation plan. This will help in better visualization, planning, and execution of each project.****
