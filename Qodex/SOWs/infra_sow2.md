@@ -5,7 +5,7 @@ This SOW aims to reduce costs, optimize infrastructure, and improve service qual
 
 ### 📋 Project List
 
-#### 1. Reduce Cost on Non-Prod Subscription
+#### 1. Reduce Cost on Non-Prod Subscription. Current cost > 16k per month
 - **Objective:** Minimize expenses for non-production Azure subscriptions.
 - **Benefits:**
   - Significant cost savings.
