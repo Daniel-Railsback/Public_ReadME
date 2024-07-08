@@ -1,9 +1,9 @@
 
 # Here is a quick write up for Unity Catalog.  Here we are looking more into External & Managed Volumes. 
---
+
 
 ## Useful Links
- [Azure Volumes](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-volumes)
+[Azure Volumes](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-volumes)
 [Reddit Article](https://www.reddit.com/r/databricks/comments/16tninv/managed_vs_external_tables/)
 [Stack Overflow](https://stackoverflow.com/questions/78652707/databricks-managed-tables-vs-external-**tables**)
 [Blog](https://medium.com/@tsiciliani/experimenting-with-databricks-volumes-5666cecb166)
