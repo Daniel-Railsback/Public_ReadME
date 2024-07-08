@@ -1,7 +1,7 @@
-#*******************************************************
-# Here is a quick write up for Unity Catalog.  Here we are looking more into External & Managed Volumes. 
-#*******************************************************
 
+# Here is a quick write up for Unity Catalog.  Here we are looking more into External & Managed Volumes. 
+
+---
 
 ## Useful Links
  [Azure Volumes](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-volumes)
