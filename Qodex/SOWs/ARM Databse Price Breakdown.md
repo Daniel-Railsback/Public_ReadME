@@ -21,7 +21,7 @@ This schedule can be adjusted to any time, but we leave the window open because 
 
 ### Cost Per Day:
 
-| Site | Normal Value | Normal Cost Per Day | Current Value | Current Cost Per Dat |
+| Site | Normal Value | Normal Cost Per Day | Current Value | Current Cost Per Day |
 | ---- | ------------ | ------------------- | ------------- | -------------------- |
 | THS  | 18           | 87.75               | 32            | 152                  |
 | LUHS | 6            | 29.25               | 14            | 68.25                |
